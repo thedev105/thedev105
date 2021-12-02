@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thedev105
 - 👀 I’m interested in Ruby and Javascript
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently focusing Node.js, Typescript
 - 💞️ I’m looking to collaborate on fun project
 
 <!---
