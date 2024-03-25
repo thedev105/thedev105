@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thedev105
-- 👀 I’m interested in Ruby, Javascript, Blockchain, Rust, Protocols and so on
-- 🌱 I’m currently focusing Node.js, Typescript, Go
+- 👀 I’m interested in Ruby and Javascript
+- 🌱 I’m currently focusing *Blockchain*, Node.js, Typescript, Go
 - 💞️ I’m looking to collaborate on fun project
 
 <!---
